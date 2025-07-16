@@ -10,6 +10,7 @@ Insights and recommendations are provided on the following key areas:
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ffcdcd03-ee94-44d5-9f40-5475a9a8c56a" />
 Data Source: <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2">Maven Analytics: Bank Customer Churn</a>
 
+
 Tools: SQL and Power BI
 
 An Interactive Power BI dashboard can be downloaded <a href="https://app.powerbi.com/view?r=eyJrIjoiMGU0MjYzNDEtODgwMS00Yzg3LTk2NTItZGI5ZDhiMWY0MjRkIiwidCI6IjdkZTZiMWMxLWYzOTMtNGJhNS05NjVkLTU3YjNhMGJhYmEzZiJ9">(here)</a>
@@ -35,9 +36,13 @@ Below is the overview page from the PowerBI dashboard. The entire interactive da
 
 ### Highest churn segments:
 •	Older age groups: > 50% churn in 46–55 bracket
+
 •	Female customers: 25.1% churn compared to 16.5% for males
+
 •	German customers: Approximately 32% churn
+
 •	Product Usage: 82.7% churn among customers using 3 products, and 100% churn for those using 4 products
+
 •	Inactive members: Around 30% churn vs approximately 14% churn for active customers
 
 ### Stable segment
