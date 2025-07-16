@@ -3,13 +3,16 @@
 Customer churn is a critical concern for banks, directly impacting revenue and long-term growth. This project investigates the drivers behind customer attrition at a European bank using SQL and Power BI. By analyzing demographic, geographic, behavioral and financial data from 10,000 customers from France, Germany, and Spain, the project uncovers key factors linked to churn.
 
 Insights and recommendations are provided on the following key areas:
+
 •	Demographics: Exploring how gender and age impact churn bevavior.
+
 •	Geography: Comparing churn trends across customers from France, Spain, and Germany to identify geographic differences.
+
 •	Engagement and Financial Profile: Analyzing how account tenure, product usage, and financial indicators like balance and salary relate to customer retention. This helps uncover patterns in churn among customers with varying levels of engagement and value to the bank.
 
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ffcdcd03-ee94-44d5-9f40-5475a9a8c56a" />
 Data Source: <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2">Maven Analytics: Bank Customer Churn</a>
-
+<br>
 Tools: SQL and Power BI
 
 An Interactive Power BI dashboard can be downloaded <a href="https://app.powerbi.com/view?r=eyJrIjoiMGU0MjYzNDEtODgwMS00Yzg3LTk2NTItZGI5ZDhiMWY0MjRkIiwidCI6IjdkZTZiMWMxLWYzOTMtNGJhNS05NjVkLTU3YjNhMGJhYmEzZiJ9">(here)</a>
@@ -87,3 +90,35 @@ Although 2-product customers are not the most financially stable, as their accou
 </p>
 
 •	The higher concentration of 2-product users in France aligns with its lower churn rate, suggesting an optimal engagement level for retention.
+
+#### Active Status
+•	Customers who are actively engaged with their accounts churn at less than half the rate of inactive members. This pattern aligns with geography differences: Germany not only has the lowest activity rate among the three but also the highest churn rate. This highlights the importance of encouraging activeness.
+
+#### Tenure
+• Customers with longer tenure show only slightly better retention, with churn rates declining from 21.2% for those with 0-2 years to 19.7% for those with 6+ years. The difference is modest and not significant enough to suggest strong loyalty over time. Additionally, the average tenure of churned customers is around 5 years, indicating that many still choose to leave after a relatively long relationship. This highlights the 5-year mark as a critical point of disengagement.
+
+#### Financial Profile
+• Churn rates are nearly identical between customers with and without a credit card, indicating that owning a credit card does not significantly reduce or increase churn risk.
+
+<p align="center">
+<img width="519" height="78" alt="image" src="https://github.com/user-attachments/assets/0fe14d28-f296-4754-8490-8fabbc682880" />
+</p>
+
+• Balance distribution is bimodal: Customer balances show a bimodal distribution. Most customers fall into either the very low or the very high balance range, with fewer in the middle. The € 25,000 - € 50,000 balance group is both the smallest and the highest-churning segment. This dual pattern may suggest that these customers either aren’t finding value in the bank’s offerings or are being underserved. Their small presence and high exit rate make them a segment worth further attention.
+
+## Recommendations
+
+Based on the uncovered insights, the following recommendations have been provided:
+1.	Target At-Risk Segments: Older customers (46+) and female customers consistently show higher churn across all age groups and geography. To improve retention, the bank should consider tailored loyalty programs or retirement-focused offerings for older clients and conduct further analysis to identify service or satisfaction gaps that may disproportionately impact female customers.
+   
+2.	Strengthen Engagement at Key Lifecycle Milestones: Since many customers churn around the 5-year mark, proactive intervention should begin by the 4th year to reinforce value and loyalty before disengagement sets in. Early-stage engagement is equally important because churn risk is highest in the first two years. Encouraging account activity from the beginning is essential, as inactive customers churn at nearly twice the rate of active ones.
+   
+3.	Optimized Product Offerings: Two-product users show the highest retention and activity, making them an ideal benchmark for effective engagement. The sharp churn among 3 and 4 product users, who are likely highly engaged, suggests potential issues with product fitness, pricing, or service fatigue. This pattern is worth deeper review from product and marketing teams.
+   
+4.	Research and Address Mid-Tier Customer Needs: Customers in the € 25,000 - € 50,000k account balance group are few but show the highest churn rate. This suggests a need to research why this segment is both small and prone to leaving, possibly because they feel underserved or lack suitable products. Exploring personalized financial advice or targeted offers could help improve their retention.
+  
+5.	Boost Engagement in German Market: Germany has the highest churn and lowest activity rates despite a financially strong customer base. Focus on enhancing customer engagement through targeted communication, and improved service experiences to reduce attrition.
+
+## Future Analysis and Next Steps
+
+Future analysis will focus on a deeper analysis of high-value customers to identify which geographies attract the most valuable clients and uncover the reasons behind this. These insights could reveal successful strategies that might be adapted and applied to other markets to help reduce churn. Additionally, I would explore the typical product usage patterns among these high-value customers to determine the optimal number of products that drive higher retention. I would also develop predictive models to identify at-risk customers earlier in their lifecycle, enabling proactive and targeted intervention programs. Together, these efforts will allow the bank to tailor its offerings and marketing strategies more effectively, enhancing both the acquisition and retention of high-value clients across different geographies.
