@@ -94,6 +94,10 @@ Although 2-product customers are not the most financially stable, as their accou
 
 •	The higher concentration of 2-product users in France aligns with its lower churn rate, suggesting an optimal engagement level for retention.
 
+<p align="center">
+<img width="349" height="115" alt="image" src="https://github.com/user-attachments/assets/bd0776ed-2bc7-43c3-a8ea-c162325084d4" />
+</p>
+
 #### Active Status
 •	Customers who are actively engaged with their accounts churn at less than half the rate of inactive members. This pattern aligns with geography differences: Germany not only has the lowest activity rate among the three but also the highest churn rate. This highlights the importance of encouraging activeness.
 
