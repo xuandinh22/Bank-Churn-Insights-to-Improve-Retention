@@ -10,3 +10,9 @@ Insights and recommendations are provided on the following key areas:
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ffcdcd03-ee94-44d5-9f40-5475a9a8c56a" />
 Data Source: <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2">Maven Analytics: Bank Customer Churn</a>
 
+Tools: SQL and Power BI
+An Interactive Power BI dashboard can be downloaded (here)
+The SQL queries utilized to inspect and perform quality check can be found ((<a href="[https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2](https://github.com/xuandinh22/Bank-Churn-Insights-to-Improve-Retention/blob/main/inspection_%26_data_quality_checks.sql)">(here)</a>))
+The SQL queries utilized to clean, organize, and prepare data can be found (here)
+Targeted SQL queries regarding business questions can be found (here)
+
