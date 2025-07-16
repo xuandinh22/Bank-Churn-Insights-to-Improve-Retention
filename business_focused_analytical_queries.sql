@@ -162,24 +162,23 @@ SELECT
 FROM customer_info;
 
 -- Median tenure of the customer base
-/*
-Tenure is normally distributed
-*/
+-- Tenure is normally distributed
+	
 SELECT DISTINCT
   PERCENTILE_CONT(0.5) WITHIN GROUP (ORDER BY Tenure) OVER() AS MedianTenure
 FROM customer_info;
 
 -- Average, min, max tenure of customers who have churned (Exited = 1) who have not churned (Exited = 0)
--- Average tenure of churner is one year less than non-churner
+-- Average tenure of Churned Customers almost equal to Retained Customers
 SELECT 
-	AVG(CAST(Tenure AS FLOAT)) AS ChurnerTenure,
+	AVG(CAST(Tenure AS FLOAT)) AS ChurnedCustomers,
 	MIN(Tenure) AS MinTenure,
 	Max(Tenure) AS MaxTenure
 FROM account_info acc
 WHERE Exited = 1;
 
 SELECT 
-	AVG(CAST(Tenure AS FLOAT)) AS NonChurnerTenure,
+	AVG(CAST(Tenure AS FLOAT)) AS RetainedCustomers,
 	MIN(Tenure) AS MinTenure,
 	Max(Tenure) AS MaxTenure
 FROM account_info acc
