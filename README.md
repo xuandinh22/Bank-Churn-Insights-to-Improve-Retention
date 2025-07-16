@@ -25,3 +25,24 @@ Targeted SQL queries regarding business questions can be found <a href="https://
 The dataset contains data for 10,000 customers at a European bank. 
 The analysis uses two main tables: customer_info and account_info.
 <img width="556" height="291" alt="image" src="https://github.com/user-attachments/assets/0b980bf1-2321-4b1f-a6bd-d22cb1052154" />
+
+## Executive Summary
+
+### Overview of Findings
+The analysis found that approximately 20% of the bank’s customers have churned, with churn rates are significantly higher among older customers, females, inactive account holders, and customers who use more than two products, with the Germany customers showing especially elevated attrition. These patterns suggest that beyond financial profile, customer engagement, satisfaction, and potentially unmet expectations are key drivers of churn. The following sections explore these trends in detail to uncover where customers are leaving, and what can be done to improve retention.
+Below is the overview page from the PowerBI dashboard. The entire interactive dashboard can be downloaded <a href="https://app.powerbi.com/view?r=eyJrIjoiMGU0MjYzNDEtODgwMS00Yzg3LTk2NTItZGI5ZDhiMWY0MjRkIiwidCI6IjdkZTZiMWMxLWYzOTMtNGJhNS05NjVkLTU3YjNhMGJhYmEzZiJ9">(here)</a>
+<img width="915" height="506" alt="image" src="https://github.com/user-attachments/assets/baae268b-500a-4650-abfa-95098b7813bb" />
+
+### Highest churn segments:
+•	Older age groups: > 50% churn in 46–55 bracket
+•	Female customers: 25.1% churn compared to 16.5% for males
+•	German customers: Approximately 32% churn
+•	Product Usage: 82.7% churn among customers using 3 products, and 100% churn for those using 4 products
+•	Inactive members: Around 30% churn vs approximately 14% churn for active customers
+
+### Stable segment
+Although 2-product customers are not the most financially stable, as their account balances are the lowest among all groups, they have the highest number of active customers and the lowest churn rate at just 7.6%.
+
+
+
+
