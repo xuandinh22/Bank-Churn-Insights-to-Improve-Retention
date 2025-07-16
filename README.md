@@ -95,7 +95,7 @@ Although 2-product customers are not the most financially stable, as their accou
 </p>
 
 #### Active Status
-•	Customers who are actively engaged with their accounts churn at less than half the rate of inactive members. This pattern aligns with geography differences: Germany not only has the lowest activity rate among the three but also the highest churn rate. This highlights the importance of encouraging activeness.
+•	Customers who are actively engaged with their accounts churn at less than half the rate of inactive members. This pattern is consistent with geographic trends: Germany has both the lowest activity rate and the highest churn rate among the three countries. This reinforces the importance of encouraging account activity to improve retention.
 
 #### Tenure
 • Customers with longer tenure show only slightly better retention, with churn rates declining from 21.2% for those with 0-2 years to 19.7% for those with 6+ years. The difference is modest and not significant enough to suggest strong loyalty over time. Additionally, the average tenure of churned customers is around 5 years, indicating that many still choose to leave after a relatively long relationship. This highlights the 5-year mark as a critical point of disengagement.
