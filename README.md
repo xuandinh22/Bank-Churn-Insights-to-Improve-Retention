@@ -82,10 +82,6 @@ Although 2-product customers are not the most financially stable, as their accou
   
 •	Three or Four Products: Churn rises sharply among customers with 3 or 4 products, with 4-product users exhibiting a 100% churn rate. Although this group is small and may not fully represent the overall customer base, the complete loss of all 4-product users is a clear warning sign. It suggests potential issues with customer satisfaction or product integration for those highly engaged customers
 
-<p align="center">
-<img width="673" height="402" alt="image" src="https://github.com/user-attachments/assets/f2431e0a-60d2-41eb-8984-1c4226e2820a" />
-</p>
-
 •	Although fewer female customers use 1 or 2 products compared to males, a slightly higher proportion of them use 3 or more products. Since higher product usage is linked to greater churn risk, this pattern may help explain why female customers tend to churn more than males.
 
 <p align="center">
