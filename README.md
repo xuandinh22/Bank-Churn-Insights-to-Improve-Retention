@@ -24,7 +24,9 @@ Targeted SQL queries regarding business questions can be found <a href="https://
 
 The dataset contains data for 10,000 customers at a European bank. 
 The analysis uses two main tables: customer_info and account_info.
-<img width="556" height="291" alt="image" src="https://github.com/user-attachments/assets/0b980bf1-2321-4b1f-a6bd-d22cb1052154" />
+<p align="center">
+  <img width="556" height="291" alt="image" src="https://github.com/user-attachments/assets/0b980bf1-2321-4b1f-a6bd-d22cb1052154" />
+</p>
 
 ## Executive Summary
 
