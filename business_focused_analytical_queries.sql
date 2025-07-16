@@ -494,8 +494,7 @@ SELECT
 	cus.CreditScoreBand,
 	CONCAT(ROUND(100*AVG(CAST(acc.Exited AS FLOAT)), 1), '%') AS ChurnPct
 FROM customer_info cus
-JOIN account_info acc
-	ON cus.CustomerId = acc.CustomerId
+JOIN account_info acc ON cus.CustomerId = acc.CustomerId
 GROUP BY cus.CreditScoreBand
 ORDER BY ROUND(100*AVG(CAST(acc.Exited AS FLOAT)), 1) DESC;
 
@@ -576,8 +575,7 @@ SELECT
     COUNT(CASE WHEN account_info.NumOfProducts = 3 THEN 1 END) AS Customer_3_Product,
     COUNT(CASE WHEN account_info.NumOfProducts = 4 THEN 1 END) AS Customer4_Product
 FROM customer_info
-JOIN account_info
-    ON customer_info.CustomerId = account_info.CustomerId
+JOIN account_info ON customer_info.CustomerId = account_info.CustomerId
 GROUP BY customer_info.Gender
 ORDER BY customer_info.Gender;
 
@@ -589,8 +587,7 @@ SELECT
 	Gender,
 	COUNT(account_info.CustomerId) AS TotalCustomers
 FROM customer_info
-JOIN account_info
-	ON customer_info.CustomerId = account_info.CustomerId
+JOIN account_info ON customer_info.CustomerId = account_info.CustomerId
 WHERE NumOfProducts = 2
 GROUP BY Gender;
 
@@ -598,8 +595,7 @@ SELECT
 	AgeBracket,
 	COUNT(account_info.CustomerId) AS TotalCustomers
 FROM customer_info
-JOIN account_info
-	ON customer_info.CustomerId = account_info.CustomerId
+JOIN account_info ON customer_info.CustomerId = account_info.CustomerId
 WHERE NumOfProducts = 2
 GROUP BY AgeBracket;
 
@@ -607,8 +603,7 @@ SELECT
 	Geography,
 	COUNT(account_info.CustomerId) AS TotalCustomers
 FROM customer_info
-JOIN account_info
-	ON customer_info.CustomerId = account_info.CustomerId
+JOIN account_info ON customer_info.CustomerId = account_info.CustomerId
 WHERE NumOfProducts = 2
 GROUP BY Geography;
 
@@ -670,9 +665,6 @@ GROUP BY NumOfProducts
 ORDER BY NumOfProducts;
 
 -- % Customers have credit card
-/*
-
-*/
 SELECT
 	NumOfProducts,
 	ROUND(100.0 * AVG(CAST(HasCrCard AS FLOAT)), 1) AS CrCardPct
