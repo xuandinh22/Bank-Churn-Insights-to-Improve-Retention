@@ -92,7 +92,7 @@ Although 2-product customers are not the most financially stable, as their accou
 <img width="773" height="76" alt="image" src="https://github.com/user-attachments/assets/483f5983-44ef-458f-8ae7-9d1aac883d9c" />
 </p>
 
-•	The higher concentration of 2-product users in France aligns with its lower churn rate, suggesting an optimal engagement level for retention.
+•	Customers from France have the lowest churn rate among all geographies (16.2%), and their higher concentration of 2-product users suggests this engagement level may contribute to stronger retention.
 
 <p align="center">
 <img width="349" height="115" alt="image" src="https://github.com/user-attachments/assets/bd0776ed-2bc7-43c3-a8ea-c162325084d4" />
