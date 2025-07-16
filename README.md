@@ -10,7 +10,6 @@ Insights and recommendations are provided on the following key areas:
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ffcdcd03-ee94-44d5-9f40-5475a9a8c56a" />
 Data Source: <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2">Maven Analytics: Bank Customer Churn</a>
 
-
 Tools: SQL and Power BI
 
 An Interactive Power BI dashboard can be downloaded <a href="https://app.powerbi.com/view?r=eyJrIjoiMGU0MjYzNDEtODgwMS00Yzg3LTk2NTItZGI5ZDhiMWY0MjRkIiwidCI6IjdkZTZiMWMxLWYzOTMtNGJhNS05NjVkLTU3YjNhMGJhYmEzZiJ9">(here)</a>
@@ -47,6 +46,9 @@ Below is the overview page from the PowerBI dashboard. The entire interactive da
 
 ### Stable segment
 Although 2-product customers are not the most financially stable, as their account balances are the lowest among all groups, they have the highest number of active customers and the lowest churn rate at just 7.6%.
+
+### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/93c186ba-9850-4f8d-9716-3313247e802d" />
+Demographics
 
 
 
