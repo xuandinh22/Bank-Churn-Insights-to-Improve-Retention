@@ -34,7 +34,7 @@ The analysis uses two main tables: customer_info and account_info.
 
 ### Overview of Findings
 The analysis found that approximately 20% of the bank’s customers have churned, with churn rates are significantly higher among older customers, females, inactive account holders, and customers who use more than two products, with the Germany customers showing especially elevated attrition. These patterns suggest that beyond financial profile, customer engagement, satisfaction, and potentially unmet expectations are key drivers of churn. The following sections explore these trends in detail to uncover where customers are leaving, and what can be done to improve retention.
-Below is the overview page from the PowerBI dashboard. The entire interactive dashboard can be downloaded <a href="https://app.powerbi.com/view?r=eyJrIjoiMGU0MjYzNDEtODgwMS00Yzg3LTk2NTItZGI5ZDhiMWY0MjRkIiwidCI6IjdkZTZiMWMxLWYzOTMtNGJhNS05NjVkLTU3YjNhMGJhYmEzZiJ9">(here)</a>
+Below is the overview page from the Power BI dashboard. The entire interactive dashboard can be downloaded <a href="https://app.powerbi.com/view?r=eyJrIjoiMGU0MjYzNDEtODgwMS00Yzg3LTk2NTItZGI5ZDhiMWY0MjRkIiwidCI6IjdkZTZiMWMxLWYzOTMtNGJhNS05NjVkLTU3YjNhMGJhYmEzZiJ9">(here)</a>
 
 <p align="center">
 <img width="915" height="506" alt="image" src="https://github.com/user-attachments/assets/baae268b-500a-4650-abfa-95098b7813bb" />
