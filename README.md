@@ -1,6 +1,12 @@
 # Bank Churn: Insights to Improve Retention
 ## Background and Overview
-Customer churn is a critical concern for banks, directly impacting revenue and long-term growth. This project explores the behavioral and demographic patterns behind customer attrition using structured SQL queries on data from a European bank.
-The dataset includes account information for 10,000 customers from France, Germany, and Spain. 
+Customer churn is a critical concern for banks, directly impacting revenue and long-term growth. This project investigates the drivers behind customer attrition at a European bank using SQL and Power BI. By analyzing demographic, geographic, behavioral and financial data from 10,000 customers from France, Germany, and Spain, the project uncovers key factors linked to churn.
+
 Insights and recommendations are provided on the following key areas:
+•	Demographics: Exploring how gender and age impact churn bevavior.
+•	Geography: Comparing churn trends across customers from France, Spain, and Germany to identify geographic differences.
+•	Engagement and Financial Profile: Analyzing how account tenure, product usage, and financial indicators like balance and salary relate to customer retention. This helps uncover patterns in churn among customers with varying levels of engagement and value to the bank.
+
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ffcdcd03-ee94-44d5-9f40-5475a9a8c56a" />
+Data Source: Bank Customer Churn
 
