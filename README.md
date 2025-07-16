@@ -114,7 +114,7 @@ Although 2-product customers are not the most financially stable, as their accou
 • Balance distribution is bimodal: Customer balances show a bimodal distribution. Most customers fall into either the very low or the very high balance range, with fewer in the middle. The € 25,000 - € 50,000 balance group is both the smallest and the highest-churning segment. This dual pattern may suggest that these customers either aren’t finding value in the bank’s offerings or are being underserved. Their small presence and high exit rate make them a segment worth further attention.
 
 <p align="center">
-<img width="666" height="459" alt="image" src="https://github.com/user-attachments/assets/6f70b3e6-cc94-44b8-bc3e-cd5a18681a5f" />
+<img width="667" height="445" alt="image" src="https://github.com/user-attachments/assets/7cc3f730-46e8-43ae-9072-8d366ef04bd5" />
 </p>
 
 ## Recommendations
