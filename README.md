@@ -62,6 +62,14 @@ Although 2-product customers are not the most financially stable, as their accou
 <img width="411" height="234" alt="image" src="https://github.com/user-attachments/assets/d28d3934-4b05-4dc4-9044-6e7691fb8b1a" />
 </p>
 
+### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/ca3ec08f-14fb-4425-82b0-d21d35a976e0" /> Geography
 
+•	Germany: German customers tend to have stronger financial profiles, with no customers holding less than € 25,000 in account balance. Yet, they churn at a much higher rate (~32%) despite having a customer base nearly equal to Spain and significantly smaller than France. Additionally, German customers show the lowest activity rate among the three geographies, suggesting weaker engagement with the bank's services
+
+•	France & Spain: Customers in France and Spain form more stable, loyal bases, maintaining higher retention despite having lower average balances and salaries.
+
+<p align="center">
+<img width="503" height="94" alt="image" src="https://github.com/user-attachments/assets/ff713c23-72cb-4775-8fb4-0bf2cdf9a780" />
+</p>
 
 
