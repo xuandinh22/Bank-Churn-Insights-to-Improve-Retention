@@ -49,6 +49,12 @@ Although 2-product customers are not the most financially stable, as their accou
 
 ### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/93c186ba-9850-4f8d-9716-3313247e802d" /> Demographics
 
+•	Age effect: Churn rate increases significantly with age — exceeding 50% for customers aged 46–55, and approximately 37% for those aged 56 and above. Both the 18–25 and 56+ age groups represent a small portion of the overall customer base. The majority of customers fall within the 26–45 age range.
+
+•	Gender Gap: Female customers have a significantly higher churn rate (25.1%) than males (16.5%) and a lower average tenure (4 years vs. 5 years). This pattern holds consistently across all geographies and age groups, suggesting possible gender-based differences in product satisfaction, user experience, or expectations, and indicating that female customers may disengage earlier in the customer lifecycle.
+<img width="411" height="234" alt="image" src="https://github.com/user-attachments/assets/d28d3934-4b05-4dc4-9044-6e7691fb8b1a" />
+
+
 
 
 
