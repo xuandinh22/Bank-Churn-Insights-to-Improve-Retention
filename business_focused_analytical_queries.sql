@@ -13,7 +13,7 @@
 
 /****** 1. Overall Churn Rate (%) ******/
 /*
-~20 % of customers have exited → retention is a priority
+~20 % of customers have exited → retention is a priority.
 */
 SELECT
 	CONCAT(ROUND(100.0 * AVG(CAST(Exited AS FLOAT)), 1), '%') AS ChurnPct,
