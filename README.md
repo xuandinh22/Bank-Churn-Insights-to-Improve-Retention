@@ -37,7 +37,7 @@ The analysis found that approximately 20% of the bank’s customers have churned
 Below is the overview page from the Power BI dashboard. The entire interactive dashboard can be downloaded <a href="https://app.powerbi.com/view?r=eyJrIjoiMGU0MjYzNDEtODgwMS00Yzg3LTk2NTItZGI5ZDhiMWY0MjRkIiwidCI6IjdkZTZiMWMxLWYzOTMtNGJhNS05NjVkLTU3YjNhMGJhYmEzZiJ9">(here)</a>
 
 <p align="center">
-<img width="2140" height="1198" alt="image" src="https://github.com/user-attachments/assets/4c96f630-6a01-4afc-868f-0a96029627cf" />
+<img width="2363" height="1325" alt="image" src="https://github.com/user-attachments/assets/d32f606b-ddd0-43ff-9bf2-68085fcb495c" />
 </p>
 
 ### Highest churn segments:
