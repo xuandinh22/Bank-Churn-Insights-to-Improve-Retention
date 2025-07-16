@@ -47,8 +47,7 @@ Below is the overview page from the PowerBI dashboard. The entire interactive da
 ### Stable segment
 Although 2-product customers are not the most financially stable, as their account balances are the lowest among all groups, they have the highest number of active customers and the lowest churn rate at just 7.6%.
 
-### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/93c186ba-9850-4f8d-9716-3313247e802d" />
-Demographics
+### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/93c186ba-9850-4f8d-9716-3313247e802d" /> Demographics
 
 
 
