@@ -12,7 +12,10 @@ Data Source: <a href="https://www.mavenanalytics.io/data-playground?order=date_a
 
 Tools: SQL and Power BI
 An Interactive Power BI dashboard can be downloaded (here)
-The SQL queries utilized to inspect and perform quality check can be found <a href="[https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2](https://github.com/xuandinh22/Bank-Churn-Insights-to-Improve-Retention/blob/main/inspection_%26_data_quality_checks.sql)">(here)</a>
+
+The SQL queries utilized to inspect and perform quality check can be found <a href="https://github.com/xuandinh22/Bank-Churn-Insights-to-Improve-Retention/blob/main/inspection_%26_data_quality_checks.sql">(here)</a>
+
 The SQL queries utilized to clean, organize, and prepare data can be found (here)
+
 Targeted SQL queries regarding business questions can be found (here)
 
