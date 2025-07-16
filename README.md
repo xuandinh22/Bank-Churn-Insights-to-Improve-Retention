@@ -74,9 +74,9 @@ Although 2-product customers are not the most financially stable, as their accou
 
 ### <img width="30" height="30" alt="image" src="https://github.com/user-attachments/assets/69bf3f08-e934-4981-8d94-928cafceb619" /> Engagement & Financial Profile
 
-•	Product Usage
+#### Product Usage
 
-  o	[ ] Two Products: Customers using 2 products show the highest engagement (53.3% active rate) and lowest churn (7.6%). 
+  o	Two Products: Customers using 2 products show the highest engagement (53.3% active rate) and lowest churn (7.6%). 
   
   o	Three or Four Products: Churn rises sharply among customers with 3 or 4 products, with 4-product users exhibiting a 100% churn rate. Although this group is small and may not fully represent the overall customer base, the complete loss of all 4-product users is a clear warning sign. It suggests potential issues with customer satisfaction or product integration for those highly engaged customers.
   
