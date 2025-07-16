@@ -98,7 +98,7 @@ Although 2-product customers are not the most financially stable, as their accou
 •	Customers who are actively engaged with their accounts churn at less than half the rate of inactive members. This pattern is consistent with geographic trends: Germany has both the lowest activity rate and the highest churn rate among the three countries. This reinforces the importance of encouraging account activity to improve retention.
 
 #### Tenure
-• Customers with longer tenure show only slightly better retention, with churn rates declining from around 21% for those with 0-2 years to 18% for those with 6+ years. The difference is modest and may not significant enough to suggest strong loyalty over time. Additionally, the average tenure of both churned customers and retained customers is around 5 years, indicating that many still choose to leave after a relatively long relationship. This highlights the 5-year mark as a critical point of disengagement.
+• Customers with longer tenure show only slightly better retention, with churn rates declining from around 21% for those with 0–2 years to 18% for those with 6+ years. The difference is modest and may not be significant enough to suggest strong loyalty over time. Additionally, the average tenure of both churned and retained customers is around 5 years, indicating that many still choose to leave after a relatively long relationship. This highlights the 5-year mark as a critical point of disengagement.
 
 <p align="center">
 <img width="585" height="161" alt="image" src="https://github.com/user-attachments/assets/85a51708-fd38-4a05-b989-0774ea38f1f3" />
@@ -113,18 +113,22 @@ Although 2-product customers are not the most financially stable, as their accou
 
 • Balance distribution is bimodal: Customer balances show a bimodal distribution. Most customers fall into either the very low or the very high balance range, with fewer in the middle. The € 25,000 - € 50,000 balance group is both the smallest and the highest-churning segment. This dual pattern may suggest that these customers either aren’t finding value in the bank’s offerings or are being underserved. Their small presence and high exit rate make them a segment worth further attention.
 
+<p align="center">
+<img width="666" height="459" alt="image" src="https://github.com/user-attachments/assets/6f70b3e6-cc94-44b8-bc3e-cd5a18681a5f" />
+</p>
+
 ## Recommendations
 
 Based on the uncovered insights, the following recommendations have been provided:
-1.	Target At-Risk Segments: Older customers (46+) and female customers consistently show higher churn across all age groups and geography. To improve retention, the bank should consider tailored loyalty programs or retirement-focused offerings for older clients and conduct further analysis to identify service or satisfaction gaps that may disproportionately impact female customers.
+1.	Target At-Risk Segments: Older customers (46+) and female customers consistently show higher churn across all geography and age groups. To improve retention, the bank should consider tailored loyalty programs or retirement-focused offerings for older clients and conduct further analysis to identify service or satisfaction gaps that may disproportionately impact female customers.
    
 2.	Strengthen Engagement at Key Lifecycle Milestones: Since many customers churn around the 5-year mark, proactive intervention should begin by the 4th year to reinforce value and loyalty before disengagement sets in. Early-stage engagement is equally important because churn risk is highest in the first two years. Encouraging account activity from the beginning is essential, as inactive customers churn at nearly twice the rate of active ones.
    
 3.	Optimized Product Offerings: Two-product users show the highest retention and activity, making them an ideal benchmark for effective engagement. The sharp churn among 3 and 4 product users, who are likely highly engaged, suggests potential issues with product fitness, pricing, or service fatigue. This pattern is worth deeper review from product and marketing teams.
    
-4.	Research and Address Mid-Tier Customer Needs: Customers in the € 25,000 - € 50,000k account balance group are few but show the highest churn rate. This suggests a need to research why this segment is both small and prone to leaving, possibly because they feel underserved or lack suitable products. Exploring personalized financial advice or targeted offers could help improve their retention.
+4.	Research and Address Mid-Tier Customer Needs: Customers in the € 25,000 - € 50,000 account balance group are few but show the highest churn rate. This suggests a need to research why this segment is both small and prone to leaving, possibly because they feel underserved or lack suitable products. Exploring personalized financial advice or targeted offers could help improve their retention.
   
-5.	Boost Engagement in German Market: Germany has the highest churn and lowest activity rates despite a financially strong customer base. Focus on enhancing customer engagement through targeted communication, and improved service experiences to reduce attrition.
+5.	Boost Engagement Among German Customers: Customers from Germany have the highest churn and lowest activity rates, despite having a financially strong profile. Efforts should focus on enhancing their engagement through targeted communication and improved service experiences to reduce attrition.
 
 ## Future Analysis and Next Steps
 
