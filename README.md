@@ -4,7 +4,7 @@ Customer churn is a critical concern for banks, directly impacting revenue and l
 
 Insights and recommendations are provided on the following key areas:
 
-•	Demographics: Exploring how gender and age impact churn bevavior.
+•	Demographics: Exploring how gender and age impact churn behavior.
 
 •	Geography: Comparing churn trends across customers from France, Spain, and Germany to identify geographic differences.
 
