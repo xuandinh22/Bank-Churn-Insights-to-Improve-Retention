@@ -10,7 +10,7 @@ Insights and recommendations are provided on the following key areas:
 
 •	Engagement and Financial Profile: Analyzing how account tenure, product usage, and financial indicators like balance and salary relate to customer retention. This helps uncover patterns in churn among customers with varying levels of engagement and value to the bank.
 
-<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ffcdcd03-ee94-44d5-9f40-5475a9a8c56a" /> Data Source: <a href="https://www.mavenanalytics.io/data-playground?order=date_added%2Cdesc&page=2">Maven Analytics: Bank Customer Churn</a>
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/ffcdcd03-ee94-44d5-9f40-5475a9a8c56a" /> Data Source: <a href="https://www.mavenanalytics.io/data-playground/bank-customer-churn?pageSize=1000">Maven Analytics: Bank Customer Churn</a>
 
 Tools: SQL and Power BI
 
